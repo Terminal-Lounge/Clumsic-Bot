@@ -91,4 +91,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 > Made with ❤️ using [Discord.js](https://discord.js.org) and [Node.js](https://nodejs.org/)
+
 > Made with ❤️ By [Ramkrishna](https://github.com/ramkrishna000) and [! Friday](https://github.com/friday2su)
