@@ -16,8 +16,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/ramkrishna000/clumsic-bot.git
-   cd clumsic-bot
+   git clone https://github.com/Terminal-Lounge/Clumsic-Bot.git
+   cd Clumsic-Bot
    ```
 
 2. **Install dependencies**  
@@ -31,9 +31,9 @@ Before you begin, ensure you have the following installed:
    ```
 
 4. **Add your client id** in src/functions/handleCommands
-```js
-clientId = 'YOUR CLIENT IDS'; 
-```
+   ```js
+   clientId = 'YOUR CLIENT IDS'; 
+   ```
 
 5. **Start the bot**  
    ```bash
